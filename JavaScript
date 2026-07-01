@@ -1,0 +1,6 @@
+function mostrarMensagem(){
+
+document.getElementById("mensagem").innerHTML =
+"🐂 A bovinocultura de corte é uma das atividades mais importantes do agronegócio brasileiro, unindo tecnologia, sustentabilidade e alta produtividade.";
+
+}
